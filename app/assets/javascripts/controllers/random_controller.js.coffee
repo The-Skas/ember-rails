@@ -1,0 +1,1 @@
+App.randomController = Ember.ObjectController.extend()
